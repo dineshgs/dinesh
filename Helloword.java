@@ -1,9 +1,5 @@
 package dinesh;
 public class Helloword { 
 	public static void main(String[] args) {
-		
 	for(int count=0;count<5;count++)
-	{System.out.println("hello word");
-}
-
-}}
+	{System.out.println("hello word");}}}
